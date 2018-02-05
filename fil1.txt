@@ -1,2 +1,6 @@
 hi hello ok bye
+<<<<<<< HEAD
 great
+=======
+asasasas
+>>>>>>> e4b5d01ebff0ebd27111745ff76bf19de80c5734
